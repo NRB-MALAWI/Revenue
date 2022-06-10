@@ -24,8 +24,6 @@ namespace NRB_Revenue
         protected global::System.Web.UI.WebControls.Label lblWeeklypiechart;
 
         /// <summary>
-<<<<<<< HEAD
-=======
         /// Chart1 control.
         /// </summary>
         /// <remarks>
@@ -44,7 +42,6 @@ namespace NRB_Revenue
         protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource1;
 
         /// <summary>
->>>>>>> 739a21dc51596e6aae6a42cb40f07b763b289a2f
         /// lblMonthlypiechart control.
         /// </summary>
         /// <remarks>
