@@ -3,6 +3,14 @@
     "",
     "\\NRB Revenue"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\NRB RevenueApplication.sln",
+=======
+<<<<<<< HEAD
+  "SelectedNode": "\\NRB Revenue\\dashboard.aspx",
+=======
+  "SelectedNode": "\\NRB RevenueApplication.sln",
+>>>>>>> b20ed38642b13fca7da6fba709d28a38cdd3f20b
+>>>>>>> 739a21dc51596e6aae6a42cb40f07b763b289a2f
   "PreviewInSolutionExplorer": false
 }
